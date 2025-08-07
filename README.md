@@ -22,6 +22,18 @@ This is a simple, beginner-friendly chatbot that runs in your terminal. It uses 
 | DevOps (CI)    | GitHub Actions   |
 
 ---
+🧪 Sample Interaction
+
+Welcome to the Mini AI Chatbot! (type 'exit' to quit)
+You: hello
+Bot: Hi there! How can I help you?
+
+You: bye
+Bot: Goodbye! Have a great day.
+
+You: exit
+Bot: Goodbye!
+
 
 ## 📂 Folder Structure
 
