@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 
 # Load FAQs
-faq_df = pd.read_csv("C:/Users/HP/Desktop/GitDemo/SimpleChatbot/data/faq.csv")
+faq_df = pd.read_csv("data/faq.csv")
 
 def get_intent(user_input):
     # Basic matching by keyword presence
