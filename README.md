@@ -33,7 +33,3 @@ Bot: Goodbye! Have a great day.
 
 You: exit
 Bot: Goodbye!
-
-
-## 📂 Folder Structure
-
